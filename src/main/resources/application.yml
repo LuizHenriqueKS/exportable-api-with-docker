@@ -1,0 +1,3 @@
+spring:
+    application:
+        name: exportable-api-with-docker
